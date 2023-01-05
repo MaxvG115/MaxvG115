@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" width="150px" style="padding-right:10px;" src="https://www.kindpng.com/picc/m/365-3659689_goku-thumbs-up-png-transparent-png.png" />
+<img align="left" width="150px" style="padding-right:10px;" src="https://i.pinimg.com/originals/c5/c7/0f/c5c70f7cbfd69f9ce4d80700a97ffedc.gif" />
 
 ### 🧰 Languages and Tools
 
