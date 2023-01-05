@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://www.kindpng.com/picc/m/365-3659689_goku-thumbs-up-png-transparent-png.png" />
+<img align="left" width="150px" style="padding-right:10px;" src="https://www.kindpng.com/picc/m/365-3659689_goku-thumbs-up-png-transparent-png.png" />
 
 ### 🧰 Languages and Tools
 
