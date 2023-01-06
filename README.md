@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<p><a href="https://linkedin.com/in/https://www.linkedin.com/in/cristian-javier-cazares-molina/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://youtube.com/@@cristiancazares"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a> </p>
+
+
 ### 🧰 Languages and Tools
 
 
