@@ -19,7 +19,7 @@
 ### Version Control
 ![Git](https://img.shields.io/badge/git-3b2600?style=for-the-badge&logo=git&logoColor=b37400) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-## Design & Planning
+### Design & Planning
 
 ![Canva](https://img.shields.io/badge/Canva-2e318e.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-ff5e7a.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/trello-add8e6?style=for-the-badge&logo=trello&logoColor=0000ff) 
 
