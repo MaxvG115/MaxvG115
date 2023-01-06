@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<p><a href="https://www.linkedin.com/in/maximiliano-villegas-garcía"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
-
 
 ### 🧰 Languages and Tools
 
@@ -22,6 +20,10 @@
 ### Design & Planning
 
 ![Canva](https://img.shields.io/badge/Canva-2e318e.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-ff5e7a.svg?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/trello-add8e6?style=for-the-badge&logo=trello&logoColor=0000ff) 
+
+### You can also have a look at my LinkedIn
+
+<p><a href="https://www.linkedin.com/in/maximiliano-villegas-garcía"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 <!--
 **MaxvG115/MaxvG115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
