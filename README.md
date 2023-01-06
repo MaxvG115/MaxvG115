@@ -1,6 +1,8 @@
 ### Hello 😄
 
-I'm currently pursuing a degree in software engineering at Tec de Monterrey and working on a variety of small projects to find the area of software I'm most suited for. I feel most comfortable with web technologies at the moment, but realize I have a long way to go. Nevertheless, I strive to learn and improve as life goes by!
+I'm currently pursuing a degree in software engineering at Tec de Monterrey and working on a variety of small projects to find the field I'm most suited for. 
+
+At the moment, I feel comfortable with web technologies, specially on the frontend side, but realize I have a long way to go. Nevertheless, I strive to learn and improve as life goes by!
 
 ## 🧰 Languages and Tools
 
