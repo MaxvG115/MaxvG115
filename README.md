@@ -35,7 +35,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 ### - Misc
-![Trello](https://img.shields.io/badge/trello-add8e6?style=for-the-badge&logo=trello&logoColor=0000ff) ![Git](https://img.shields.io/badge/git-3b2600?style=for-the-badge&logo=git&logoColor=b37400)
+![Trello](https://img.shields.io/badge/trello-add8e6?style=for-the-badge&logo=trello&logoColor=0000ff) ![Git](https://img.shields.io/badge/git-3b2600?style=for-the-badge&logo=git&logoColor=b37400) ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🎨 Design
 
