@@ -1,7 +1,7 @@
 ### Hello 
 
 
-### 🧰 Languages and Tools
+## 🧰 Languages and Tools
 
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Ruby](https://img.shields.io/badge/ruby-A30031?style=for-the-badge&logo=ruby&logoColor=E40046) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-ffffff?style=for-the-badge&logo=swift&logoColor=ffac14)
 
