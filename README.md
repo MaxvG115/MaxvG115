@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><a href="https://www.linkedin.com/in/maximiliano-villegas-garcía"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://youtube.com/@@cristiancazares"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"></a> </p>
+<p><a href="https://www.linkedin.com/in/maximiliano-villegas-garcía"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 
 ### 🧰 Languages and Tools
