@@ -1,4 +1,4 @@
-### Hello 😄
+# Hello 😄
 
 I'm currently pursuing a degree in software engineering at Tec de Monterrey and working on a variety of small projects to find the field I'm most suited for. 
 
