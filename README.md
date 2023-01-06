@@ -34,7 +34,6 @@
 ### - Misc
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white) ![NodeJS](https://img.shields.io/badge/Node.JS-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Trello](https://img.shields.io/badge/trello-add8e6?style=for-the-badge&logo=trello&logoColor=0000ff) ![Git](https://img.shields.io/badge/git-3b2600?style=for-the-badge&logo=git&logoColor=b37400)
 
-
 ## 🎨 Design
 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
