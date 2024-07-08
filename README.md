@@ -26,7 +26,7 @@
 
 ### You can also stop by my LinkedIn 👀
 
-<p><a href="https://www.linkedin.com/in/maximiliano-villegas-garcía"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
+<p><a href="https://www.linkedin.com/in/maximiliano-villegas-garcia"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a></p>
 
 <!--
 **MaxvG115/MaxvG115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
